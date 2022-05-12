@@ -1,0 +1,5 @@
+resource_group_name           = "xeexamples-resources"
+location                      = "West US"
+primary_sql_server_name       = "xeazuresqlserver"
+administrator_login           = "AmyvermA2010%%"
+administrator_login_password  = "554exampleserver_resource12"
